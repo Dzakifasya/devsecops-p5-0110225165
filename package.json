@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-p5-0110225165",
+  "version": "1.0.0",
+  "description": "Task Management REST API Node.js Express for DevSecOps Lab P5",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
